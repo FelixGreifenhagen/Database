@@ -1,10 +1,6 @@
-# Datenbank: Arbeitsprotokol
+# Datenbank: Arbeitsprotokoll
 
-## 12.11.2019
 
-## 13.11.2019
-
-## 14.11.2019
 
 ## 19.11.2019
 
