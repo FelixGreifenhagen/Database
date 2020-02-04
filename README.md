@@ -1,5 +1,5 @@
 # Datenbank: Arbeitsprotokoll
-<a href="https://www.bing.com/images/search?view=detailV2&ccid=nNBCH%2brQ&id=1E5DFDB9511278C5221C0DB3933E87785D88062B&thid=OIP.nNBCH-rQZv6zu7fQgMTLawHaIo&mediaurl=https%3a%2f%2fcdn.pixabay.com%2fphoto%2f2014%2f04%2f03%2f10%2f08%2fdatabase-309919_640.png&exph=640&expw=549&q=datenbank+bilder+frei&simid=608043420128839602&selectedIndex=0">
+<a href="">
 
 # Inhaltsverzeichnis
 
@@ -21,7 +21,7 @@
 
 ## Mittwoch, der 04.12.2019
 
-Heute habe ich mich darüber informiert, welche Programme ich zum Bau meiner Datenbank benötige. Das ist nämlich erst mal einen Testserver, dafür habe ich Xampp gewählt, weil es kostenlos ist und mit vielen Programmen synergiert. Zusätzlich benötigt man einen Editor in dem man Tabellen erstellen kann und der mit Php kompatibel ist, weil Php das beste Programm zur Kommunikation zwischen Datenbank und Website ist. Als diesen Editor habe ich MySQL gewählt, da es die Bedingungen erfüllt und viele Entwickler es benutzen.
+Heute habe ich mich darüber informiert, welche Programme ich zum Bau meiner Datenbank benötige. Das ist nämlich erst mal einen Testserver, dafür habe ich Xampp gewählt, weil es kostenlos ist und mit vielen Programmen synergiert. Zusätzlich benötigt man einen Editor in dem man Tabellen erstellen kann und der mit Php kompatibel ist, weil Php das beste Programm zur Kommunikation zwischen Datenbank und Website ist. Als diesen Editor habe ich MySQL gewählt, da es die Bedingungen erfüllt und viele Entwickler es benutzen. Mein Plan ist es jetzt diese Programme zu installieren und mich mit diesen Programmen vertraut zu machen.
 
 ## Donnerstag, der 05.12.2019
 
