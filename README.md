@@ -1,5 +1,5 @@
 # Datenbank: Arbeitsprotokoll
-<a href="">
+<a href="https://www.bing.com/images/search?view=detailV2&ccid=2%2bGvxwqN&id=88AFC507FBD62FAA042AB944B794A5BEF0969F23&thid=OIP.2-GvxwqN1ORSH-qxdf-W3gHaHa&mediaurl=https%3a%2f%2ffactfile.org%2fwp-content%2fuploads%2f2016%2f07%2fFacts-about-databases.jpg&exph=500&expw=500&q=Datenbank+bild&simid=607989123144157191&selectedIndex=7&ajaxhist=0">
 
 # Inhaltsverzeichnis
 
