@@ -21,6 +21,8 @@
 
 ## Mittwoch, der 04.12.2019
 
+Heute habe ich mich darüber informiert, welche Programme ich zum Bau meiner Datenbank benötige. Das ist nämlich erst mal einen Testserver, dafür habe ich Xampp gewählt, weil es kostenlos ist und mit vielen Programmen synergiert. Zusätzlich benötigt man einen Editor in dem man Tabellen erstellen kann und der mit Php kompatibel ist, weil Php das beste Programm zur Kommunikation zwischen Datenbank und Website ist. Als diesen Editor habe ich MySQL gewählt, da es die Bedingungen erfüllt und viele Entwickler es benutzen.
+
 ## Donnerstag, der 05.12.2019
 
 # 2.Woche 09.12.2019-14.12.2019
