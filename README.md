@@ -19,8 +19,6 @@
 
 # 1.Woche 02.12.2019-08.12.2019
 
-## Dienstag, der 03.12.2019
-
 ## Mittwoch, der 04.12.2019
 
 ## Donnerstag, der 05.12.2019
