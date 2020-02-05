@@ -31,6 +31,8 @@ Am Donnerstag habe ich Xampp und MySQL installiert. Jedoch hatte ich ein paar Pr
 
 ## Dienstag, der 10.12.2019
 
+Heute habe ich mir einen Artikel zu Xampp durchgelesen und ein Tutotial angeschaut, wie Xampp funktioniert. Danach habe ich mein Xampp Control Panel geöffnet und die mein Apache sowie mein MySQL-Modul gestartet. Als nächtes werde ich mir MySQL Kenntnisse aneignen um meine Datenbank zu schreiben, die ich dann mit meiner Website verbinden will.
+
 ## Mittwoch, der 11.12.2019
 
 ## Donnerstag, der 12.12.2019
