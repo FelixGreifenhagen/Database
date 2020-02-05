@@ -25,6 +25,8 @@ Heute habe ich mich darüber informiert, welche Programme ich zum Bau meiner Dat
 
 ## Donnerstag, der 05.12.2019
 
+Am Donnerstag habe ich Xampp und MySQL installiert, mit MySql hatte ich ein paar Probleme, aber nachdem ich mir ein Tutorial angeschaut habe funktionierte das ebenfalls. Als nächtes mache ich mich dann mit beiden Programmen vertraut.
+
 # 2.Woche 09.12.2019-14.12.2019
 
 ## Dienstag, der 10.12.2019
