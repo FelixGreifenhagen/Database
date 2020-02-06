@@ -35,6 +35,8 @@ Heute habe ich mir einen Artikel zu Xampp durchgelesen und ein Tutotial angescha
 
 ## Mittwoch, der 11.12.2019
 
+Am Mittwoch habe ich mich mit den Tutorials von "Programmieren und Starten" einiges über Datenbanken gelernt, wie beispielsweise ein theoretischer teil zum Aufbau einer Datenbank und eines Datenbankmanagmentsystems(DBMS) sowie ein Video zur Erstellung der ersten Datenbank. Dieses funktioniert mit create Database, dann muss man noch eine Tabelle erstellen mit verschiedenen Spalten, die man mit insert into füllen kann. Morgen will ich mit den Videos weitermachen, um bald mit meiner eigenen Datenbank anzufangen.
+
 ## Donnerstag, der 12.12.2019
 
 # 3.Woche 13.01.2020-19.01.2020
