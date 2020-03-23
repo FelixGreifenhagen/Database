@@ -13,8 +13,6 @@
 ## 8.Woche 17.02.2020-23.02.2020
 ## 9.Woche 02.03.2020-08.03.2020
 ## 10.Woche 09.03.2020-15.03.2020
-## 11.Woche 16.03.2020-22.03.2020
-## 12.Woche 23.03.2020-29.03.2020
 
 # 1.Woche 02.12.2019-08.12.2019
 
@@ -37,6 +35,8 @@ Heute habe ich mir einen Artikel zu Xampp durchgelesen und ein Tutotial angescha
 Am Mittwoch habe ich mich mit den Tutorials von "Programmieren und Starten" einiges über Datenbanken gelernt, wie beispielsweise ein theoretischer teil zum Aufbau einer Datenbank und eines Datenbankmanagmentsystems(DBMS) sowie ein Video zur Erstellung der ersten Datenbank. Dieses funktioniert mit create Database, dann muss man noch eine Tabelle erstellen mit verschiedenen Spalten, die man mit insert into füllen kann. Morgen will ich mit den Videos weitermachen, um bald mit meiner eigenen Datenbank anzufangen.
 
 ## Donnerstag, der 12.12.2019
+
+Heute habe ich mit den Videos von "Programmieren und Starten" weiter gemacht, dabei habe ich die "where" Funktion kennengelernt mit der man "select" Anfrage genauer formulieren kann und somit spezifische Werte ausgeben lassen kann. Ebenfalls ging es um den Primärschlüssel, seine Bedeutung und seine Verwendung. Er ist wichtig um der Tabelle eine Struktur zu geben, denn jeder Zeile wird ein Wert zugeteilt andhand dessen man die Information identifizieren kann, wie eine ID. Außerdem lernte ich wie man Datensätze der Tabelle verändert mit "update" oder sie löscht mit delete. Nächste will ich die Videos beenden und mit der Verbindung der drei Elemente, Datenbank, Php Dokument und Website anfangen.
 
 # 3.Woche 13.01.2020-19.01.2020
 
@@ -96,19 +96,3 @@ Am Dienstag hatten wir einen Besuch im DESY, weswegen kein Fortschritt erfolgt i
 ## Donnerstag, der 12.03.2020
 
 ## Freitag, der 13.03.2020
-
-# 11.Woche 16.03.2020-22.03.2020
-
-## Mittwoch, der 18.03.2020
-
-## Donnerstag, der 19.03.2020
-
-## Freitag, der 20.03.2020
-
-# 12.Woche 23.03.2020-29.03.2020
-
-## Mittwoch, der 25.03.2020
-
-## Donnerstag, der 26.03.2020
-
-## Freitag, der 27.03.2020
