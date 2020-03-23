@@ -42,38 +42,63 @@ Heute habe ich mit den Videos von "Programmieren und Starten" weiter gemacht, da
 
 ## Dienstag, der 14.01.2020
 
+Am Dienstag habe wieder mit den Videos von Programmieren und Starten weitergebildet, es ging um
+
 ## Mittwoch, der 15.01.2020
 
+Heute 
+
 ## Donnerstag, der 16.01.2020
+
+Am Donnerstag
 
 # 4.Woche 20.01.2020-26.01.2020
 
 ## Dienstag, der 21.01.2020
+
 Am Dienstag hatten wir einen Besuch im DESY, weswegen kein Fortschritt erfolgt ist.
 
 ## Mittwoch, der 22.01.2020
 
+Heute
+
 ## Donnerstag, der 23.01.2020
+
+Am Donnerstag
 
 # 5.Woche 27.01.2020-02.02.2020
 
 ## Dienstag, der 28.01.2020
 
+Heute
+
 # 6.Woche 03.02.2020-09.02.2020
 
 ## Dienstag, der 04.02.2020
 
+Am Dienstag
+
 ## Mittwoch, der 05.02.2020
 
+Heute
+
 ## Donnerstag, der 06.02.2020
+
+Am Donnestag
 
 # 7.Woche 10.02.2020-16.02.2020
 
 ## Dienstag, der 11.02.2020
 
+Heute
+
 ## Mittwoch, der 12.02.2020
 
+Am Mittwoch
+
 ## Donnerstag, der 13.02.2020
+
+Heute
 
 # 8.Woche 17.02.2020-23.02.2020
 
