@@ -42,7 +42,7 @@ Heute habe ich mit den Videos von "Programmieren und Starten" weiter gemacht, da
 
 ## Dienstag, der 14.01.2020
 
-Am Dienstag habe wieder mit den Videos von Programmieren und Starten weitergebildet, es ging um
+Am Dienstag habe wieder mit den Videos von Programmieren und Starten weitergebildet, es ging um die verschiedenen Datentypen, welche man für die Spalten der Tabelle auswählen. Beispiele für Text sind der "char" und der "varchar", man durch Zahlen auf ein Maximum begrenzt, der Unterschied liegt in der mit zu wenigen Buchstaben umzugehen. Hat beispielsweise ein Wort, in einer Spalte mit der Definition "char", nicht genügend Buchstaben so werden die Fehlenden mit Leerzeichen gefüllt z.B. char(8) (Brot....). Beim varchar hingegen wird die Länge an das Wort angepasst z.B. varchar(8) (Brot). Auch den Null-Wert habe ich benutzen gelernt, er ist dafür um einen fehlenden Wert in einer zu ersetzen, wenn verhinder möchte, das dies in einer Spalte möglich ist, muss man der Spalte die definition "not null" geben.
 
 ## Mittwoch, der 15.01.2020
 
