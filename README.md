@@ -50,7 +50,7 @@ Heute ich mit den Videos abgeschlossen, dabei habe ich noch einmal einiges geler
 
 ## Donnerstag, der 16.01.2020
 
-Am Donnerstag
+Am Donnerstag habe ich mir ein Tutorial zu dem Thema, Php mit Datenbank verbinden angeschaut. Daraufhin habe ich mich bei phpmyadmin angemeldet und eine Datenbank angelegt mit dem Namen "data". Danach habe ich ein Tabelle für die Accounts auf meiner Seite erstellt mit sieben Spalten und zwar id, email, passwort, vorname, nachname, created_at und updated_at. Für id habe ich die Befehle "primary", "int" und "auto_increment" ausgewählt, damit es ein Primärschlüssel wird, als Zahl definiert wird und durch "auto_increment" sich bei jedem neuen Eintrage um eins erhöht. Für die vier Textbereiche habe ich ein "varchar" Befehl benutz, weil bei allen vieren verschiedene Wortlängen möglich sein müssen. Nächste Stunde will ich dann auch beide miteinander verbinden.
 
 # 4.Woche 20.01.2020-26.01.2020
 
