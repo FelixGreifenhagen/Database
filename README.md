@@ -120,13 +120,13 @@ Heute habe ich mit meiner Account seite angefangen, ich erst einmal das Layout m
 
 ## Freitag, der 06.03.2020
 
-Am Freitag
+Am Freitag habe ich mit der Account seite weitergemacht ich habe sie zu meiner Accountdatenbank verbunden um auf die Daten zu greifen zu können, mit der $con Variabel und den Zugangsdaten als einzelne Variabeln definiert. In Html habe ich eine Tabelle erstellt in der dann später die Fotos sowie die wichtigsten Informationen gespeichert werden. 
 
 # 10.Woche 09.03.2020-15.03.2020
 
 ## Donnerstag, der 12.03.2020
 
-Heute
+Heute habe ich eine Datenbank das als Kernstück dienen soll erstellt ich habe die Spalten "uploaded_at", "link", "Watched". Diese habe ich wie die andere Datenbank durch die $con Variabel und den anderen Variabeln mit der Accountseite verbunden. Als nächstes will ich noch die Projektseite machen, damit man auch alles verstehen kann.
 
 ## Freitag, der 13.03.2020
 
