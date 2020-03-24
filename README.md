@@ -46,7 +46,7 @@ Am Dienstag habe wieder mit den Videos von Programmieren und Starten weitergebil
 
 ## Mittwoch, der 15.01.2020
 
-Heute 
+Heute ich mit den Videos abgeschlossen, dabei habe ich noch einmal einiges gelernt, wie beispielsweise wie man mit SQL rechnet, das ist relativ man verwendet eine "select" Anfrage. Das kann zur Berechnung von Finanzen nutzen. Ich habe mich mit dem Spalten Alias vertraut gemacht. Ebenfalls habe ich die Befehle "order by", "limit" und "group by" kennengelernt, alle drei spezifizieren den "select" Befehl z.B. reduziert "limit" die Anzahl ausgegebenen Zeilen, während man mit "order by" die Sotierung der Tabelle verändern kann. "group by" hingegen um mehrere Zeilen über eine Spalte in Gruppen einzuteilen, um dann diese jeweils bearbeiten zu können. Morgen will mit dem Verbinden meines Php Dokuments mit meiner Datenbank weitermachen.
 
 ## Donnerstag, der 16.01.2020
 
@@ -104,20 +104,33 @@ Heute
 
 ## Mittwoch, der 19.02.2020
 
+Am Mitwoch
+
 ## Donnerstag, der 20.02.2020
+
+Heute
 
 # 9.Woche 02.03.2020-08.03.2020
 
 ## Mittwoch, der 04.03.2020
 
+Am Mitwoch
+
 ## Donnerstag, der 05.03.2020
+
+Heute
 
 ## Freitag, der 06.03.2020
 
-# 10.Woche 09.03.2020-15.03.2020
+Am Freitag
 
-## Mittwoch, der 11.03.2020
+# 10.Woche 09.03.2020-15.03.2020
 
 ## Donnerstag, der 12.03.2020
 
+Heute
+
 ## Freitag, der 13.03.2020
+
+Am Freitag
+
