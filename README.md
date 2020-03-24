@@ -92,7 +92,7 @@ Am Donnestag habe ich mit dem Kontaktformular weitergemacht, dabei habe ich um d
 
 ## Mittwoch, der 12.02.2020
 
-Am Mittwoch habe ich weiter an dem Kontaktformular gearbeitet, ich einmal if Anweisung und die foreach Anweisung verwendet, damit habe ich
+Am Mittwoch habe ich weiter an dem Kontaktformular gearbeitet, ich einmal if Anweisung und die foreach Anweisung verwendet, ich habe mit foreach alle Variabeln bezüglich der email ausgewählt und dann mit der if Anweisung die Variabeln nicht sichtbar gemacht, welche für mich als Empfänger nicht so wichtig zu sehen sind. Danach habe ich noch den die im Fomular einzugebende email als Absender email definiert. nächste Stunde will das Kontaktformular beenden.
 
 ## Donnerstag, der 13.02.2020
 
