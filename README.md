@@ -82,7 +82,7 @@ Am Dienstag habe ich mein Loginformular gemacht, dabei habe ich zwei if Anweisun
 
 ## Mittwoch, der 05.02.2020
 
-Heute habe ich mit dem Kontaktformular angefangen, ich habe Variabeln für alle wichtigen Dinge erstellt, nämlich diewchtigen Daten, des Senders (Email und co.) sowie 
+Heute habe ich mit dem Kontaktformular angefangen, ich habe Variabeln für alle wichtigen Dinge erstellt, nämlich diewchtigen Daten, des Senders (Email und co.) sowie von mir als Empfänger als auch bezüglich der Weiterleitung und für Elemente die nicht in der email vorhanden sein sollen. Als nächstes muss ich noch weitere Variabeln definieren.
 
 ## Donnerstag, der 06.02.2020
 
