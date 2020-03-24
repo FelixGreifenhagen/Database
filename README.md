@@ -78,7 +78,7 @@ dafür gesorgt habe das keine email mehrere Accounts hat, indem ich eine "select
 
 ## Dienstag, der 04.02.2020
 
-Am Dienstag
+Am Dienstag habe ich mein Loginformular gemacht, dabei habe ich zwei if Anweisungen benutzt und in der einen wird die passende Email mit einer Select Abfrage ausgewählt, mit der anderen wird das Passwort überprüft. Ebenfalls wird dem Benutzer mit geteilt, ob der Login erfolgreich war oder nicht. Daraufhin wird er weitergeleitet. Ich will morgen mit der Accountseite anfangen.
 
 ## Mittwoch, der 05.02.2020
 
