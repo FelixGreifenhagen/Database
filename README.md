@@ -60,7 +60,7 @@ Am Dienstag hatten wir einen Besuch im DESY, weswegen kein Fortschritt erfolgt i
 
 ## Mittwoch, der 22.01.2020
 
-Heute
+Heute habe ich angefangen mit der Website "php-einfach.de" zu arbeiten um meine Php-Dateine für meine Website zuerstellen. Dort hab ich dann nach Loginscripts gesucht um die Mechaniken zu verstehen. Zuerst einmal habe ich mir angeschaut wie man das Php-script und habe es um gesetzt, indem ich die Variable $pdo erstellt und sie mit den Zugangsdaten für die Datenbank gafüllt habe. 
 
 ## Donnerstag, der 23.01.2020
 
