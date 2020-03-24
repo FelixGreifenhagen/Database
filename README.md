@@ -82,7 +82,7 @@ Am Dienstag habe ich mein Loginformular gemacht, dabei habe ich zwei if Anweisun
 
 ## Mittwoch, der 05.02.2020
 
-Heute
+Heute habe ich mit dem Kontaktformular angefangen, ich habe Variabeln für alle wichtigen Dinge erstellt, nämlich diewchtigen Daten, des Senders (Email und co.) 
 
 ## Donnerstag, der 06.02.2020
 
@@ -106,7 +106,7 @@ Heute
 
 ## Mittwoch, der 19.02.2020
 
-Am Mitwoch
+Am Mitwoch habe ich mir Gedanken darüber gemacht, was noch zu erledigen ist. Dabei fiel mir auf, dass ich noch die Projektseite machen muss, noch Text auf der Startseite meiner Website hinzufügen muss und noch mein Php Dokument sowie die Accountseite dazu noch bauen muss und mit css gestalten muss.  
 
 ## Donnerstag, der 20.02.2020
 
