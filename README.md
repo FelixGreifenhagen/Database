@@ -82,7 +82,7 @@ Am Dienstag habe ich mein Loginformular gemacht, dabei habe ich zwei if Anweisun
 
 ## Mittwoch, der 05.02.2020
 
-Heute habe ich mit dem Kontaktformular angefangen, ich habe Variabeln für alle wichtigen Dinge erstellt, nämlich diewchtigen Daten, des Senders (Email und co.) 
+Heute habe ich mit dem Kontaktformular angefangen, ich habe Variabeln für alle wichtigen Dinge erstellt, nämlich diewchtigen Daten, des Senders (Email und co.) sowie 
 
 ## Donnerstag, der 06.02.2020
 
@@ -116,7 +116,7 @@ Heute habe ich den noch fehlenden Text auf meiner Website hinzugefügt. Als näc
 
 ## Mittwoch, der 04.03.2020
 
-Am Mitwoch
+Am Mitwoch habe ich mit meiner Account seite angefangen, ich erst einmal das Layout meiner Log in Seite genommen und es auf mehrere Arten verändert, indem ich die Side bar farblich verändert habe. Ebenfalls habe ich die Navigation um die Accountseite erweitert und eine Anrede für den Benutzer formuliert und ihm noch eine Anleitung für die Benutzung meiner noch in Planung seienden Datenbank gegeben. 
 
 ## Donnerstag, der 05.03.2020
 
