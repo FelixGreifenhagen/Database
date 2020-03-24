@@ -86,13 +86,13 @@ Heute habe ich mit dem Kontaktformular angefangen, ich habe Variabeln für alle 
 
 ## Donnerstag, der 06.02.2020
 
-Am Donnestag habe ich mit dem Kontaktformular weitergemacht, dabei habe ich um die Variabeln gekümmert, welche zu der Erstellung des exakten Absendedatums nötig sind, wie die Bestimmung des Wochentages sowie die Zahl des Tages, die Woche und das Jahr des Absendens und eine zur Zusammenfassung aller dieser Variabeln. Nächste Woche möchte ich mit der Accountseite fertig werden.
+Am Donnestag habe ich mit dem Kontaktformular weitergemacht, dabei habe ich um die Variabeln gekümmert, welche zu der Erstellung des exakten Absendedatums nötig sind, wie die Bestimmung des Wochentages sowie die Zahl des Tages, die Woche und das Jahr des Absendens und eine zur Zusammenfassung aller dieser Variabeln. Nächste Woche möchte ich mit der Kontaktformular fertig werden.
 
 # 7.Woche 10.02.2020-16.02.2020
 
 ## Mittwoch, der 12.02.2020
 
-Am Mittwoch habe ich 
+Am Mittwoch habe ich weiter an dem Kontaktformular gearbeitet, ich einmal if Anweisung und die foreach Anweisung verwendet, damit habe ich
 
 ## Donnerstag, der 13.02.2020
 
