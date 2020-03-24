@@ -96,7 +96,7 @@ Am Mittwoch habe ich weiter an dem Kontaktformular gearbeitet, ich einmal if Anw
 
 ## Donnerstag, der 13.02.2020
 
-Heute
+Heute habe ich das Kontaktformular beenden können, dabei habe ich den Betreff der Mail als Überschrift der Mail mit einer if Anweisung definiert. Ebenfalls habe ich beide Möglichkeiten der Weiterleitung geregelt, wenn die Mail versandt wurde wird man wieder auf die Seite zurückgeleitet, wenn das nicht Fall wird man auf einer anderen seite davon in Kenntnis gesetzt.
 
 # 8.Woche 17.02.2020-23.02.2020
 
