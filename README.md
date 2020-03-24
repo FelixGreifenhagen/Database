@@ -92,7 +92,7 @@ Am Donnestag habe ich mit dem Kontaktformular weitergemacht, dabei habe ich um d
 
 ## Mittwoch, der 12.02.2020
 
-Am Mittwoch
+Am Mittwoch habe ich 
 
 ## Donnerstag, der 13.02.2020
 
@@ -112,11 +112,11 @@ Heute habe ich den noch fehlenden Text auf meiner Website hinzugefügt. Als näc
 
 ## Mittwoch, der 04.03.2020
 
-Am Mitwoch habe ich mit meiner Account seite angefangen, ich erst einmal das Layout meiner Log in Seite genommen und es auf mehrere Arten verändert, indem ich die Side bar farblich verändert habe. Ebenfalls habe ich die Navigation um die Accountseite erweitert und eine Anrede für den Benutzer formuliert und ihm noch eine Anleitung für die Benutzung meiner noch in Planung seienden Datenbank gegeben. 
+Am Mitwoch habe ich das Design meiner Accountseite geplant und überlegt, was man noch für tools einbauen könnte. 
 
 ## Donnerstag, der 05.03.2020
 
-Heute
+Heute habe ich mit meiner Account seite angefangen, ich erst einmal das Layout meiner Log in Seite genommen und es auf mehrere Arten verändert, indem ich die Side bar farblich verändert habe. Ebenfalls habe ich die Navigation um die Accountseite erweitert und eine Anrede für den Benutzer formuliert und ihm noch eine Anleitung für die Benutzung meiner noch in Planung seienden Datenbank gegeben. 
 
 ## Freitag, der 06.03.2020
 
