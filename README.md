@@ -110,7 +110,7 @@ Am Mitwoch habe ich mir Gedanken darüber gemacht, was noch zu erledigen ist. Da
 
 ## Donnerstag, der 20.02.2020
 
-Heute
+Heute habe ich den noch fehlenden Text auf meiner Website hinzugefügt. Als nächtes will ich mit der Accountseite anfangen.
 
 # 9.Woche 02.03.2020-08.03.2020
 
