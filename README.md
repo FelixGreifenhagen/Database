@@ -60,11 +60,12 @@ Am Dienstag hatten wir einen Besuch im DESY, weswegen kein Fortschritt erfolgt i
 
 ## Mittwoch, der 22.01.2020
 
-Heute habe ich angefangen mit der Website "php-einfach.de" zu arbeiten um meine Php-Dateine für meine Website zuerstellen. Dort hab ich dann nach Loginscripts gesucht um die Mechaniken zu verstehen. Zuerst einmal habe ich mir angeschaut wie man das Php-script und habe es um gesetzt, indem ich die Variable $pdo erstellt und sie mit den Zugangsdaten für die Datenbank gafüllt habe. 
+Heute habe ich angefangen mit der Website "php-einfach.de" zu arbeiten um meine Php-Dateine für meine Website zuerstellen. Dort hab ich dann nach Loginscripts gesucht um die Mechaniken zu verstehen. Zuerst einmal habe ich mir angeschaut wie man das Php-script und habe es um gesetzt, indem ich die Variable $con erstellt und sie mit den Zugangsdaten für die Datenbank gafüllt habe, diese habe ich als Variablen angegeben. Als nächstes will ein Php Dokument zur Speicherung der beim Registrieren eingegebenen Daten in meiner Datenbank.
 
 ## Donnerstag, der 23.01.2020
 
-Am Donnerstag
+Am Donnerstag habe ich mit meinem Php Dokument angefangen, zuerst habe ich michum die Registrierung kümmern wollen, weil man das auf einer Website zuerst macht. Dafür habe ich meine html Datei für das Registrierungsformular genommen und habe es in ein php Dokument umgewandelt und es im xampp Ordner unter einem einzelnen Odner abgespeichert. Das habe ich ebenfalls mit dem Loginformular und der Accountseite gemacht.
+Daraufhin habe ich mit den if Anweisungen, erst einmal ein if geschrieben, für den Fall, dass jemand eine nicht existierende email angibt der Benutzer bekommt dann einen Hinweis das er eine gültige email angeben soll. Auch zwei weitere if´s damit jeder ein passwort hat und beide geschriebenen Passwörter übereinstimmen. 
 
 # 5.Woche 27.01.2020-02.02.2020
 
