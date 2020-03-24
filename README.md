@@ -71,7 +71,8 @@ Daraufhin habe ich mit den if Anweisungen, erst einmal ein if geschrieben, für 
 
 ## Dienstag, der 28.01.2020
 
-Heute
+Heute habe ich mit dem Formular weitergemacht, indem ich mit if Anweisungen und den Funktionen prepare, execute und fetch 
+dafür gesorgt habe das keine email mehrere Accounts hat, indem ich eine "select" Abfrage in Php geschrieben habe. Außerdem habe ich damit das einfügen der Daten in die Tabelle möglich gemacht eine weitere if Anweisung zur Überprüfung geschrieben. Falls es nicht funktioniert wird man zum Formular zurück geleitet. Als nächstes will das Loginformular machen.
 
 # 6.Woche 03.02.2020-09.02.2020
 
