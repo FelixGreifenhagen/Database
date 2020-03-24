@@ -134,5 +134,5 @@ Heute
 
 ## Freitag, der 13.03.2020
 
-Am Freitag
+Am Freitag habe ich mit der Projektseite angefangen, um nicht die Probleme vom letzten mal wieder zu haben ich habe Struktur vorbereitet und schon mal ein bisschen überlegt was ich schreiben könnte, welche Bilder ich verwenden könnte und wie ich mein Projekt bewerten würde. Aber ich muss auch noch ein paar Dinge an meiner Seite optimieren um möglich Probleme auszuschließen. 
 
